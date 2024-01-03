@@ -14,3 +14,5 @@ npm start
 # Build for production
 npm run build
 ```
+
+<img src="screen-shot.png" width="500" style="display:block;margin: 40px auto" />
